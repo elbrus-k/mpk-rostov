@@ -1,5 +1,8 @@
 /* mpk-rostov.ru — Papercore overrides */
 body { font-family: Georgia, 'Times New Roman', serif; }
+#mainContent { width: 620px; float: left; margin-right: 20px; }
+#sidebar { width: 300px; }
+.article-body img, .postImg, .article-cover { max-width: 100%; height: auto; }
 #logoContainer a { text-decoration: none; }
 #logoContainer .brand { display: block; font-size: 28px; font-weight: 700; color: #4a3428; letter-spacing: 1px; }
 #logoContainer .tag { display: block; font-size: 11px; color: #8b6f4e; text-transform: uppercase; letter-spacing: 2px; margin-top: 4px; }
