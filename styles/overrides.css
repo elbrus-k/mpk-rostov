@@ -1,0 +1,25 @@
+/* mpk-rostov.ru — Papercore overrides */
+body { font-family: Georgia, 'Times New Roman', serif; }
+#logoContainer a { text-decoration: none; }
+#logoContainer .brand { display: block; font-size: 28px; font-weight: 700; color: #4a3428; letter-spacing: 1px; }
+#logoContainer .tag { display: block; font-size: 11px; color: #8b6f4e; text-transform: uppercase; letter-spacing: 2px; margin-top: 4px; }
+.page-h1 { font-size: 26px; color: #4a3428; margin: 20px 0 10px; font-weight: 700; }
+.page-intro { color: #6b4f36; font-size: 14px; margin-bottom: 25px; font-style: italic; }
+.post-title a { color: #4a3428; text-decoration: none; font-size: 22px; }
+.post-title a:hover { color: #a0522d; }
+.moreLink { color: #a0522d; font-weight: 700; }
+.article-cover { max-width: 100%; height: auto; margin: 15px 0; border: 1px solid #d4c5b0; padding: 4px; background: #f8f4ec; }
+.breadcrumb { font-size: 12px; color: #8b6f4e; margin: 10px 0; }
+.article-meta { color: #8b6f4e; font-size: 12px; margin: 10px 0 20px; }
+.article-body h2 { color: #4a3428; font-size: 20px; margin: 25px 0 12px; border-bottom: 1px solid #d4c5b0; padding-bottom: 5px; }
+.article-body h3 { color: #6b4f36; font-size: 16px; margin: 20px 0 10px; }
+.article-body p { line-height: 1.7; margin: 10px 0; color: #3d2b1f; }
+.article-body ul, .article-body ol { margin: 12px 0 12px 24px; }
+.article-body ul li { margin: 5px 0; line-height: 1.6; }
+.article-body a { color: #a0522d; }
+.article-body strong { color: #4a3428; }
+.related-posts { background: #f8f4ec; border: 1px solid #d4c5b0; padding: 15px 20px; margin-top: 30px; }
+.related-posts h3 { color: #4a3428; margin: 0 0 10px; font-size: 15px; }
+.related-posts ul { margin: 0 0 0 20px; }
+.related-posts li { margin: 4px 0; }
+.related-posts a { color: #a0522d; }
