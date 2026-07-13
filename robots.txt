@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
-Disallow: /script/
-Disallow: /styles/
+Disallow: /js/
+Disallow: /css/
 
 Sitemap: https://mpk-rostov.ru/sitemap.xml
 Host: mpk-rostov.ru
